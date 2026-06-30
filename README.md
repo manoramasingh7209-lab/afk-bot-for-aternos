@@ -6,9 +6,9 @@ First of all you need to change the ip in [config file](https://github.com/krush
 **Don't change the port**, you may change the rest of the stuff
 ```
 {
-	"ip":"yourip.aternos.me",
-	"port": "25565",
-	"name": "afk bot"
+	"ip":"aluhero123.aternos.me",
+	"port": "45864",
+	"name": "alu bot"
 }
 
 ```
@@ -30,3 +30,4 @@ If your server version is not 1.16.5 then add the following plugins:
 
 ### **Extra help**
 If you are facing any issue then you can join this discord server: https://discord.gg/7AYYyjZ4B8
+<img width="736" height="1308" alt="1000045000" src="https://github.com/user-attachments/assets/8c93f561-cc8b-4aa9-b9c7-b698fa130f68" />
